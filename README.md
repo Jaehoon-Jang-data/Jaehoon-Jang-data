@@ -3,8 +3,6 @@
 I'm currently an undergraduate student majoring in **Social Studies Education** and minoring in **Statistics** at Seoul National University.  
 I am driven by a passion for leveraging data to explore and address complex problems across diverse fields.
 
----
-
 ## 🎯 About Me
 - **Interests**:  
   - Data Visualization  
@@ -12,8 +10,6 @@ I am driven by a passion for leveraging data to explore and address complex prob
   - Machine Learning  
   - Explainable AI (XAI)  
   - Causal Inference  
-
----
 
 ## 🛠️ Skills & Certifications
 - **Programming**:
@@ -30,17 +26,11 @@ I am driven by a passion for leveraging data to explore and address complex prob
   - Survey Analyst,Junior
   - Advanced Data Analytics Semi-Professional (ADsP) 
 
----
-
 ## 🌍 Academic Interests
 I am deeply interested in interdisciplinary studies spanning **education**, **sociology**, and **economics**. 
 
----
-
 ## 📈 My Vision
 I aspire to contribute to projects that combine the power of **data science** and **statistical methods** with insights from **social sciences**, creating solutions that are both impactful and interpretable.
-
----
 
 Feel free to explore my repositories or connect with me to discuss ideas, collaborations, or opportunities!
 
