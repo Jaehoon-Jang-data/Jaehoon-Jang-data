@@ -8,9 +8,9 @@ Proficient in Python and R, I enjoy diving into:
 - Explainable AI(XAI)
 - Causal Inference
 
-Let's connect and explore the exciting world of data together! 📊🔍🎓
+Let's connect and explore the exciting world of data together!
 
-[kaggle profile](https://www.kaggle.com/lucasdataartist)
+[📊 My Kaggle Profile](https://www.kaggle.com/lucasdataartist)
 
 
 <!--
