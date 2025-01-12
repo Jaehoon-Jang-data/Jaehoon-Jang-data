@@ -10,6 +10,9 @@ Proficient in Python and R, I enjoy diving into:
 
 Let's connect and explore the exciting world of data together! 📊🔍🎓
 
+[kaggle profile](https://www.kaggle.com/lucasdataartist)
+
+
 <!--
 **Jaehoon-Jang-data/Jaehoon-Jang-data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
