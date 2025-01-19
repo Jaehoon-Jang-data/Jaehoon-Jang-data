@@ -13,11 +13,10 @@ I am driven by a passion for leveraging data to explore and address complex prob
 
 ## 🛠️ Skills & Certifications
 - **Programming**:
-  - Python (Pandas, NumPy, Matplotlib, Scikit-learn, SHAP, ...)
-  - R (ggplot2, dplyr, ...)
+  - Python
+  - R
 - **Data Analysis**:
   - Exploratory Data Analysis  
-  - Statistical Modeling
   - Machine Learning  
 - **Research**:  
   - Survey Design
