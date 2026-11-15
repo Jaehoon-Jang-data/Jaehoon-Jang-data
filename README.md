@@ -5,7 +5,7 @@ I'm an undergraduate student majoring in **Social Studies Education** and minori
 ## 🎯 About Me
 
 I am interested in the ways collaborative experiences shape perspective-taking, communication, and shared decision-making, especially in educational settings.
-- **Keywords**:
+- **Keywords**:
   - Collaborative Learning and Perspective-Taking
   - Social and Educational Research
   - Data Visualization and Statistical Modeling
