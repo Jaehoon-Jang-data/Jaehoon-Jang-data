@@ -21,15 +21,13 @@ I am interested in the ways collaborative experiences shape perspective-taking, 
   - Exploratory Data Analysis and Visualization
   - Regression and Experimental Design
   - Machine Learning and Explainable AI (SHAP, Permutation Importance)
-  - Text Mining (TF-IDF)
+  - Text Mining
 - **Research**:
   - Survey and Questionnaire Design
   - Statistical Analysis
 - **Certifications**:
   - Survey Analyst,Junior
   - Advanced Data Analytics Semi-Professional (ADsP)
-- **Kaggle**:
-  - Notebooks Expert
 
 ## 📈 My Vision
 
@@ -37,4 +35,4 @@ I hope to combine data science and social research to better understand human ex
 
 ---
 
-[📊 My Kaggle Profile](https://www.kaggle.com/lucasdataartist)
+[📊 Kaggle](https://www.kaggle.com/lucasdataartist)
