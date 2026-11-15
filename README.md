@@ -1,37 +1,39 @@
-# 🌟 Hello There! 👋 
+# 🌟 Hello There! 👋
 
-I'm currently an undergraduate student majoring in **Social Studies Education** and minoring in **Statistics** at Seoul National University.  
-I am driven by a passion for leveraging data to explore and address complex problems across diverse fields.
+I'm an undergraduate student majoring in **Social Studies Education** and minoring in **Statistics** at Seoul National University. I use data and research to explore social and educational questions, with a particular interest in how people learn to understand different perspectives and work together.
 
 ## 🎯 About Me
-- **Interests**:  
-  - Data Visualization  
-  - Statistical Analysis  
-  - Machine Learning  
-  - Explainable AI (XAI)  
-  - Causal Inference  
+
+I am interested in the ways collaborative experiences shape perspective-taking, communication, and shared decision-making, especially in educational settings.
+- **Keywords**:
+  - Collaborative Learning and Perspective-Taking
+  - Social and Educational Research
+  - Data Visualization and Statistical Modeling
+  - Text Mining and Explainable Machine Learning
+  - AI-Supported Collaboration
 
 ## 🛠️ Skills & Certifications
+
 - **Programming**:
   - Python
   - R
 - **Data Analysis**:
-  - Exploratory Data Analysis  
-  - Machine Learning  
-- **Research**:  
-  - Survey Design
-  - Hypothesis Testing
-- **Certifications**:  
+  - Exploratory Data Analysis and Visualization
+  - Regression and Experimental Design
+  - Machine Learning and Explainable AI (SHAP, Permutation Importance)
+  - Text Mining (TF-IDF)
+- **Research**:
+  - Survey and Questionnaire Design
+  - Statistical Analysis
+- **Certifications**:
   - Survey Analyst,Junior
-  - Advanced Data Analytics Semi-Professional (ADsP) 
-
-## 🌍 Academic Interests
-I am deeply interested in interdisciplinary studies spanning **education**, **sociology**, and **economics**. 
+  - Advanced Data Analytics Semi-Professional (ADsP)
+- **Kaggle**:
+  - Notebooks Expert
 
 ## 📈 My Vision
-I aspire to contribute to projects that combine the power of **data science** and **statistical methods** with insights from **social sciences**, creating solutions that are both impactful and interpretable.
 
-Feel free to explore my repositories or connect with me to discuss ideas, collaborations, or opportunities!
+I hope to combine data science and social research to better understand human experiences and support thoughtful, evidence-based solutions.
 
 ---
 
